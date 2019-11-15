@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Carpool.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>EA250BC92108DE0C0088DA5C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA250BDD2108DE0C0088DA5C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA250BE82108DE0C0088DA5C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
